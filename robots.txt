@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /16thanniversary/wp-admin/
+Allow: /16thanniversary/wp-admin/admin-ajax.php
 
-Sitemap: https://pages.thaipbs.or.th/sitemap_index.xml
+Sitemap: https://backoffice.thaipbs.or.th/16thanniversary/sitemap_index.xml

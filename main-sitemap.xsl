@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Thai PBS</title>
+						<title>Locations Sitemap - 16th Anniversary</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Thai PBS</title>
+						<title>XML Sitemap - 16th Anniversary</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -118,7 +118,7 @@
 								This KML file contains <xsl:value-of select="count(kml:kml/kml:Document/kml:Folder/kml:Placemark)"/> Locations.
 							</p>
 							<p class="expl">
-								<a href="https://sites.thaipbs.or.th/sitemap_index.xml">&#8592; Sitemap Index</a>							</p>
+								<a href="https://sites.thaipbs.or.th/16thanniversary/sitemap_index.xml">&#8592; Sitemap Index</a>							</p>
 							<table id="sitemap" cellpadding="3">
 								<thead>
 									<tr>
@@ -213,7 +213,7 @@
 									This XML Sitemap contains <strong><xsl:value-of select="count(sitemap:urlset/sitemap:url)"/></strong> URLs.								</p>
 
 								<p class="expl">
-									<a href="https://sites.thaipbs.or.th/sitemap_index.xml">&#8592; Sitemap Index</a>								</p>
+									<a href="https://sites.thaipbs.or.th/16thanniversary/sitemap_index.xml">&#8592; Sitemap Index</a>								</p>
 
 								<table id="sitemap" cellpadding="3">
 
