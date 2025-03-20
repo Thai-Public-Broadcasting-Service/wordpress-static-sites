@@ -2,27 +2,31 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://sites.thaipbs.or.th/</loc>
-		<lastmod>2025-03-20T07:07:48+00:00</lastmod>
+		<lastmod>2025-03-20T10:48:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sites.thaipbs.or.th/no5crisis/</loc>
-		<lastmod>2025-03-20T07:07:48+00:00</lastmod>
+		<loc>https://sites.thaipbs.or.th/sawasdee/sappurisa-dharma/</loc>
+		<lastmod>2025-03-20T10:48:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://sites.thaipbs.or.th/sawasdee/</loc>
+		<lastmod>2025-03-20T10:47:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://sites.thaipbs.or.th/dharmaquotes/</loc>
+		<lastmod>2025-03-20T10:40:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://sites.thaipbs.or.th/vegetarianfestival/</loc>
+		<lastmod>2025-03-20T10:39:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/tracingpm25/</loc>
-		<lastmod>2025-03-20T06:54:55+00:00</lastmod>
+		<lastmod>2025-03-20T10:26:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sites.thaipbs.or.th/thai-pbs-%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%aa%e0%b8%b5%e0%b8%a7%e0%b8%b1%e0%b8%99-3/</loc>
-		<lastmod>2025-03-20T06:38:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://sites.thaipbs.or.th/thai-pbs-%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%aa%e0%b8%b5%e0%b8%a7%e0%b8%b1%e0%b8%99-2/</loc>
-		<lastmod>2025-03-20T05:22:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://sites.thaipbs.or.th/thai-pbs-%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%aa%e0%b8%b5%e0%b8%a7%e0%b8%b1%e0%b8%99/</loc>
-		<lastmod>2025-03-20T04:39:12+00:00</lastmod>
+		<loc>https://sites.thaipbs.or.th/no5crisis/</loc>
+		<lastmod>2025-03-20T07:45:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/newdirector/</loc>
