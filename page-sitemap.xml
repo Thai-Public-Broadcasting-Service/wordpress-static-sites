@@ -2,7 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://sites.thaipbs.or.th/</loc>
-		<lastmod>2025-04-10T04:47:42+00:00</lastmod>
+		<lastmod>2025-04-10T09:24:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://sites.thaipbs.or.th/no5crisis/</loc>
+		<lastmod>2025-04-10T09:24:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://sites.thaipbs.or.th/no-5-crisis-poll/</loc>
+		<lastmod>2025-04-10T08:31:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/fixpm25/</loc>
@@ -12,16 +20,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sites.thaipbs.or.th/no5crisis/</loc>
-		<lastmod>2025-04-09T08:23:54+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://sites.thaipbs.or.th/localoffroad/</loc>
 		<lastmod>2025-03-30T17:23:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://sites.thaipbs.or.th/no-5-crisis-poll/</loc>
-		<lastmod>2025-03-28T05:02:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/infocus-bar/</loc>
