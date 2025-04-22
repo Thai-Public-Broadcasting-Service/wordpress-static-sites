@@ -2,22 +2,40 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://sites.thaipbs.or.th/</loc>
-		<lastmod>2025-04-11T10:22:44+00:00</lastmod>
+		<lastmod>2025-04-22T07:39:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/no5crisis/</loc>
-		<lastmod>2025-04-11T10:22:44+00:00</lastmod>
+		<lastmod>2025-04-22T07:39:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://sites.thaipbs.or.th/fixpm25/</loc>
+		<lastmod>2025-04-22T06:34:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/2c9c2036ac7adf45e855b90123b4c6cd/BG.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/07ec2d591db25748d50852e78714a44e/adventure1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/a44d2cf76fcf04df0dafd9fad0eb14cd/adventure2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/66e6beb3a253284de7a828d3dd4a0dd7/adventure5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/11536a97260032f1b0ff83d06334e99c/adventure3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/02869b1c2e26d00df3b193f663b514a0/adventure4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/00fee7dbf3c1756a269347ca29d546b0/adventure7.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/no-5-crisis-accept-poll/</loc>
 		<lastmod>2025-04-11T10:03:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://sites.thaipbs.or.th/fixpm25/</loc>
-		<lastmod>2025-04-10T11:07:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/2c9c2036ac7adf45e855b90123b4c6cd/BG.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/no-5-crisis-poll/</loc>
