@@ -2,18 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://sites.thaipbs.or.th/</loc>
-		<lastmod>2025-05-13T07:49:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://sites.thaipbs.or.th/fixpm25/</loc>
-		<lastmod>2025-05-13T07:49:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/2c9c2036ac7adf45e855b90123b4c6cd/BG.jpg</image:loc>
-		</image:image>
+		<lastmod>2025-05-15T07:53:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/localoffroad/</loc>
-		<lastmod>2025-05-13T07:15:52+00:00</lastmod>
+		<lastmod>2025-05-15T07:53:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/07ec2d591db25748d50852e78714a44e/adventure1.jpg</image:loc>
 		</image:image>
@@ -32,6 +25,113 @@
 		<image:image>
 			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/00fee7dbf3c1756a269347ca29d546b0/adventure7.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://sites.thaipbs.or.th/fixpm25/</loc>
+		<lastmod>2025-05-15T07:42:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/2c9c2036ac7adf45e855b90123b4c6cd/BG.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/5422988da34f7dc71d845a1e47dee00d/Untitled-1-01.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/e346c28b9bd7da6ee42678a9ccd8f8df/Untitled-1-02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/173fb807f936a0d887728e356090f71c/Untitled-1-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/34076d1c0c7654f1bfacb914966180ab/Untitled-1-04.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/2118eeaf6a54213a2a3c80525f5ea3b5/Untitled-1-05.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/ce1e15bbcec9deaa84fead726f011533/Untitled-1-01.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/d993811fcc6ba834c0b2bef58b6c950f/Untitled-1-02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/e2d63931fcead5bd395265c5434b5050/Untitled-1-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/3ff163d5c5e8756a223182ddccdf28b1/Untitled-1-04.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/95bf871dde173ffcf6a8e4101e3397fa/Untitled-1-05.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/638fd018cbec4345ae4b488752c09924/Photostory-for-facebook-01.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/6db5843f12f015c328ab6e84a0615d34/Photostory-for-facebook-02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/39ec3b9ed26a330b5bf1b5e44e081914/Photostory-for-facebook-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/0bcfdad4943fc6779b8ddeaa949152ae/Photostory-for-facebook-04.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/97b0ab06d15adc1a47869c3f9bc265c8/Photostory-for-facebook-05.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/a5857057d3164ce7214d83e2a1464e8d/Photostory-for-facebook-06.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/ac905db9b8ef40b2767e7eab5c36d2cc/Photostory-for-facebook-07.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/c00d7d05ece6b8e80de0976fa95b2c6b/Photostory-for-facebook-08.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/192c11674fc9efda8edee116cae34eb1/Photostory-for-facebook-09.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/c6fc7b7671d1761297a6164f1e41e957/Photostory-for-facebook-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/a4936541f241c18a1fbd189ba761d43a/Photostory-for-facebook-11.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/ec5cb3aa7383782af26f4b5a2fbde900/Photostory-for-facebook-01.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/831cc31bbb0c2229171039f1baeca8fb/Photostory-for-facebook-02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/723165ee949afe01eaf35de062ad775e/Photostory-for-facebook-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/944ac91ce855c24979f540ab8132312e/Photostory-for-facebook-04.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/6cad6dafda97e8539730ae30027682ae/Photostory-for-facebook-05.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/13380273d7cffbcd1ad70548df8ccdd6/Photostory-for-facebook-06.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/cfb9eaf75819cbedad8cc5b022e5692d/Photostory-for-facebook-07.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/1e3acb4fb4cb87635fb7004af30a1cde/Photostory-for-facebook-08.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/0104187b1cf4d7fe96c5368881c74400/Photostory-for-facebook-09.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/93581d0eec3969708109963713ca5bb2/Photostory-for-facebook-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sites.thaipbs.or.th/wp-content/uploads/sites/3/slider/cache/f5772e131dd404c84bc9e7c9189db8ad/Photostory-for-facebook-11.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://sites.thaipbs.or.th/localroad-form/</loc>
+		<lastmod>2025-05-15T07:14:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://sites.thaipbs.or.th/localoffroad-v1/</loc>
