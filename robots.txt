@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /onepage/wp-admin/
 Allow: /onepage/wp-admin/admin-ajax.php
 
-Sitemap: https://backoffice.thaipbs.net/onepage/sitemap_index.xml
+Sitemap: https://backoffice.thaipbs.or.th/onepage/sitemap_index.xml
