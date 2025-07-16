@@ -1,5 +1,3 @@
-<br />
-<b>Notice</b>:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>plant</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in <b>/home/backoffice/webapps/backoffice/wp-includes/functions.php</b> on line <b>6114</b><br />
 <?xml version="1.0" encoding="UTF-8"?><xsl:stylesheet version="2.0"
 	xmlns:html="http://www.w3.org/TR/REC-html40"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
@@ -120,7 +118,7 @@
 								This KML file contains <xsl:value-of select="count(kml:kml/kml:Document/kml:Folder/kml:Placemark)"/> Locations.
 							</p>
 							<p class="expl">
-								<a href="/sitemap_index.xml">&#8592; Sitemap Index</a>							</p>
+								<a href="https://backoffice.thaipbs.or.th/onepage/sitemap_index.xml">&#8592; Sitemap Index</a>							</p>
 							<table id="sitemap" cellpadding="3">
 								<thead>
 									<tr>
@@ -215,7 +213,7 @@
 									This XML Sitemap contains <strong><xsl:value-of select="count(sitemap:urlset/sitemap:url)"/></strong> URLs.								</p>
 
 								<p class="expl">
-									<a href="/sitemap_index.xml">&#8592; Sitemap Index</a>								</p>
+									<a href="https://backoffice.thaipbs.or.th/onepage/sitemap_index.xml">&#8592; Sitemap Index</a>								</p>
 
 								<table id="sitemap" cellpadding="3">
 
